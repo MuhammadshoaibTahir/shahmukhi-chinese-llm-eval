@@ -68,6 +68,6 @@ Each output was rated for **adequacy** on a 1–5 scale (5 = perfect, 1 = unacce
 - Ling and ERNIE are free preview models on OpenRouter and may change. They were queried in November 2026.
 - Open-weight models ran in 4-bit precision.
 - The script classifier is rule-based. It agrees with human language labels on about 87% of items.
-If you use this repository, please cite: [your paper, once published].
+If you use this repository, please cite: > Muhammad Shoaib Tahir. 2026. Evaluating Chinese Large Language Models on Punjabi Shahmukhi Translation
 
 Contact: [your name and email]
