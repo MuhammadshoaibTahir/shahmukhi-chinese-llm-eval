@@ -1,0 +1,51 @@
+row,model,sentence_id,English,Reference,Translation,round1_score,round1_is_punjabi,round2_language,round2_score
+1,glm4-9b,3730,She is not so confident in her creative skills.,اوہنوں اپنی تخلیقی طاقت تے بھروسہ نئیں اے۔,ਉਹ ਆਪਣੀਆਂ ਰਚਨਾਤਮਕ ਕੌਸ਼ਲਾਂ ਵਿੱਚ ਇੰਨਾ ਆਤਮਵਿਸ਼ਵਾਸ ਨਹੀਂ ਰੱਖਦੀ ਹੈ।,1,no,Gurmukhi Punjabi,1.0
+2,glm4-9b,4579,"What are the lower and upper limits on a personal loan, usually?",ذاتی قرضیاں لئی عام تھلویں تے اوپری حداں کی نیں؟,ਕਿਸੇ ਪਰਸੋਨਲ ਲੋਨ ਉੱਤੇ ਸਾਧਾਰਣ ਤੌਰ 'ਤੇ ਨਿਚੋੜ ਅਤੇ ਉੱਚੋੜ ਸੀਮਾਵਾਂ ਕੀਂ ਹਨ?,1,no,Gurmukhi Punjabi,1.0
+3,hunyuan-7b,4623,Haha..sorry I am kidding.,ہاہاہا...  معذرت، میں مذاق کر رہیا سی۔,"हाहा.. مؤسف हूँ, मैं बताती हूँ।",1,no,Gurmukhi Punjabi,1.0
+4,qwen3-8b,3728,"There are national tests like the NID Entrance Exam, too.",این آئی ڈی داخلہ امتحان ورگے قومی امتحان وی ہوندے نیں۔,ملکی ٹیسٹ جیسے این ڈی ڈی انجنری ٹیسٹ بھی ہیں۔,3,yes,Urdu,4.0
+5,glm4-9b,3988,"And most importantly, taking the vaccine should be our immediate concern.",تے سب توں ضروری گل، ساڈی توجہ بغیر کیتیاں ٹیکہ لوان تے ہونی چاہیدی اے۔,"ਅਤੇ ਸਭ ਤੋਂ ਵੱਧ, ਟੀਕਾ ਲੈਣਾ ਸਾਡੀ ਤੁਰੰਤ ਚਿੰਤਾ ਹੋਣੀ ਚਾਹੀਦ.",1,no,Gurmukhi Punjabi,1.0
+6,qwen3-8b,4084,Let's see what happens,ویکھدے آں کی ہوندا اے۔,آئئے دیکھیئے کیا ہوݙے گا,5,yes,Urdu,4.0
+7,hunyuan-7b,3547,Everybody except him thanked the critic for her honest opinion.,اوس توں علاوہ، سب نے ایماندار رائے دین لئی نقاد دا شکریہ ادا کیتا۔,ਸਾਰੇ ਲੋਕ ਉਸ ਤੋਂ ਬਿਨਾ ਸ਼੍ਰੀਫ਼ ਲਈ ਉਸ ਦੀ ਸੱਚੀ ਹੱਲਤ ਲਈ ਸ਼ਾਂਤੀ ਦੇਣ ਵਾਲੇ ਲੋਕਾਂ ਨੂੰ ਧੰਨਵਾਦ ਕਰਦੇ ਹਨ।,1,no,Gurmukhi Punjabi,1.0
+8,ling,3988,"And most importantly, taking the vaccine should be our immediate concern.",تے سب توں ضروری گل، ساڈی توجہ بغیر کیتیاں ٹیکہ لوان تے ہونی چاہیدی اے۔,تے سبھ توں اہم گل ایہہ اے کہ ٹیکہ لینا ساڈی فوری ضرورت اے۔,5,yes,Punjabi,5.0
+9,qwen3-8b,4721,Great!,بہوں چنگا!,آهُم!,5,yes,Urdu,5.0
+10,glm4-9b,1526,"My dear countrymen, many of you have urged me on My gov and Narendra Modi app to mention Doctors Day, the 1st of July.",میرے پیارے دیس واسیو! کئی لوکاں نے مینوں مائی گو تے نریندر مودی ایپس تے لکھیا کہ میں ایس وار دی 'من کی بات' وچ ڈاکٹرز ڈے دے بارے چ گل کراں جہڑا پہلی جولائی نوں آن آلا اے۔,"ਮੇਰੇ ਪਿਆਰੇ ਦੇਸ਼ਵਾਸੀਓ, ਤੁਹਾਂ ਵਿੱਚੋਂ ਕਈਆਂ ਨੇ ਮੈਨੂੰ My gov ਅਤੇ Narendra Modi app 'ਤੇ ਡਾਕਟਰਜ਼ ਦਿਵਸ, 1 ਜੁਲਾਈ ਦੀ ਸ਼ਲਾਘਾ ਕਰਨ ਲਈ ਕਿਹਾ ਹੈ।",1,no,Gurmukhi Punjabi,1.0
+11,glm4-9b,3564,What'll you be doing over the weekend?,توں ایس ہفتے کیہ کر رئی ایں؟,ਤੁਸੀਂ ਉਸ ਹਫ਼ਤੇ ਕੀ ਕਰਨਗੇ?,1,no,Gurmukhi Punjabi,1.0
+12,glm4-9b,3708,"Okay, now tell me what movie do you want to go for?",ٹھیک اے، ہن دسو تسی کہڑی فلم ویکھن جانا چاہندے او؟,"ਠੀਕ, ਹੁਣ ਮੈਨੂੰ ਦੱਸੋ ਕਿ ਕਿਸ ਫ਼ਿਲਮ ਲਈ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ?",1,no,Gurmukhi Punjabi,1.0
+13,qwen3-8b,3730,She is not so confident in her creative skills.,اوہنوں اپنی تخلیقی طاقت تے بھروسہ نئیں اے۔,ਉਸ ਆਪਣੀ ਸ਼ਿਲਪ ਕੁਸ਼ਲਤਾ ਵਿੱਚ ਇਸ ਤਰ੍ਹਾਂ ਧੀਰਜ ਨਹੀਂ ਰੱਖਦੀ।,1,no,Gurmukhi Punjabi,1.0
+14,ling,3755,To the India Gate and finally to the Red fort.,انڈیا گیٹ تے آخر چ لال قلعہ تیکر۔,انڈیا گیٹ تے بالآخر لال قلعے تک۔,5,yes,Punjabi,4.0
+15,ling,2570,How late is the bank open?,بینک کدوں تک کھلا رہندا اے؟,بینک کِنّی دیر تکّ کھلا رہندا اے؟,5,yes,Punjabi,5.0
+16,ling,3744,Am I too late?,کیہ میں بہوں دیر کر دتی اے؟,کی میں بہت دیر ہو گیا؟,5,yes,Punjabi,4.0
+17,hunyuan-7b,3755,To the India Gate and finally to the Red fort.,انڈیا گیٹ تے آخر چ لال قلعہ تیکر۔,भारतीय द्वार के पास और अंततः लाल द्वार में।,1,no,Gurmukhi Punjabi,1.0
+18,glm4-9b,4721,Great!,بہوں چنگا!,ਗ੍ਰੇਟ!,1,yes,Gurmukhi Punjabi,1.0
+19,hunyuan-7b,2360,I couldn't refuse.,میں نہ نئیں کر سکیا۔,میں رفض نہیں سکھا۔,3,yes,Urdu,3.0
+20,hunyuan-7b,4603,"I don't know, ma'am.",مینوں نئیں پتہ میڈم۔,"मैं जानती नहीं, माँ।",1,no,Gurmukhi Punjabi,1.0
+21,ling,3923,"India has only five per cent share of it, yet it is one of the most important rivers in terms of civilization, as well as economy.",ہندوستان وچ ایہ صرف پنج فیصد اے، فیر وی ایہ تہذیب تے معیشت دے لحاظ تو‏ں سب تو‏ں اہم دریاواں وچو‏ں اک ا‏‏ے۔,بھارت ایس دا صرف پنج فیصد حصہ اے، فیر وی ایہ تہذیب تے معیشت دے اعتبار نال سبھ توں اہم دریاواں وچوں اک اے۔,5,yes,Punjabi,5.0
+22,hunyuan-7b,3079,I looked into the next room.,میں اگلے کمرے چ ویکھیا۔,मुझे अपनी गाथा के अलग-अलग भागों में देखना पड़ा।,1,no,Gurmukhi Punjabi,1.0
+23,glm4-9b,5135,The Composite package includes that along with Jaigarh and the Royal Centotaphs.,کمپوزٹ پیکیج چ ایہدے نال نال جے گڑھ تے رائل سینٹوٹاف وی شامل ہن۔,"ਕੰਪੋਜਿਟ ਪੈਕੇਜ ਵਿੱਚ ਉਹ ਸਮੇਤ ਹੈ, ਜਾਇਗਰਾਹ ਅਤੇ ਰਾਜਾ ਦੇ ਸੈਂਟੋਫਾਈਜ਼।",1,no,Gurmukhi Punjabi,1.0
+24,ling,4424,And which club did you join?,تے تسی کس کلب چ شامل ہوئے او؟,تے تسیں کیہڑے کلب وچ شامل ہوئے؟,5,yes,Punjabi,
+25,qwen3-8b,1293,I have always considered Radio as an effective means of connecting with people.,میں ہمیش لئی ریڈیو نوں لوکاں نال جڑن دا اک اہم ذریعہ سمجھیا اے۔,میں ہمیشہ ریڈیو کو لوگوں کے ساتھ رابطہ قائم کرنے کا مؤثر ذریعہ سمجھتا ہوں۔,5,yes,Urdu,
+26,glm4-9b,4169,"So, do we have a plan for the journey?",تے کیہ ساڈے کول کوئی سفری منصوبہ اے؟,"ਤਾਂ, ਅਸੀਂ ਇਸ ਯਾਤਰਾ ਲਈ ਯੋਜਨਾ ਹੈ ਕੀ?",1,no,Gurmukhi Punjabi,1.0
+27,ling,2875,I think we are still in Poland!,میرا خیال اے کہ اسی ہلے وی پولینڈ چ آں۔,مینوں لگدا اے اساں اجے وی پولینڈ وچ نیں!,5,yes,Punjabi,5.0
+28,glm4-9b,4143,"Yes, this insurance provides cashless hospitalization facility through their network hospitals.",ہاں، ایہہ بیمہ پالیسی اپنے نیٹ ورک تے ہسپتالاں دے ذریعے نقد رقم دے بغیر ہسپتال وچ داخل ہون دی سہولت فراہم کردی اے۔,جائ، اس انشورنس نے اپنے نیٹ ورک ہاسپتالز کے ذریعے کیشلس نہیں کا ہاسپتالیز فیسلٹی فراہم کرتی ہے.,5,yes,Urdu,3.0
+29,hunyuan-7b,4721,Great!,بہوں چنگا!,बहुत हास्यपूर्ण!,1,no,Gurmukhi Punjabi,1.0
+30,qwen3-8b,4415,You're welcome.,تہانوں جی آیاں نوں۔,خوش آمدید۔,5,yes,Urdu,5.0
+31,hunyuan-7b,4866,How does this work?,ایہہ کیویں کم کردی اے؟,ਇਸ ਕੀ ਕੰਮ ਕਰਦਾ ਹੈ?,1,no,Gurmukhi Punjabi,1.0
+32,ling,2761,I'll get Tom to help you.,میں ٹام نوں تہاڈی مدد لئی گھلدا واں۔,میں ٹام نوں تینوں مدد کراں گا۔,3,yes,Punjabi,4.0
+33,qwen3-8b,1526,"My dear countrymen, many of you have urged me on My gov and Narendra Modi app to mention Doctors Day, the 1st of July.",میرے پیارے دیس واسیو! کئی لوکاں نے مینوں مائی گو تے نریندر مودی ایپس تے لکھیا کہ میں ایس وار دی 'من کی بات' وچ ڈاکٹرز ڈے دے بارے چ گل کراں جہڑا پہلی جولائی نوں آن آلا اے۔,"ਮੇਰੇ ੳੰਗਰਾਂ, ਤੁਸੀਂ ਮੇਰੇ ਗੋਵ ਅਤੇ ਨਰਿੰਦਰ ਮੋਦੀ ਐਪ ਵਿੱਚ 1 ਜੁਲਾਈ ਨੂੰ ਡਾਕਟਰ ਦਿਵਸ ਦੀ ਗੱਲ ਕਰਨ ਲਈ ਮੈਨੂੰ ਉਡੀਕ ਕਰਵਾਇਆ।",1,no,Gurmukhi Punjabi,1.0
+34,qwen3-8b,4854,Hey Kirat.,جی، کیرت۔,ہی کیرت۔,4,yes,Urdu,2.0
+35,hunyuan-7b,4264,"Please keep in mind that if she is not interested in classical music, you should not force her to learn it.",مہربانی کر کے ایہ گل ذہن چ رکھو کہ جے اوہ کلاسیکی موسیقی چ دلچسپی نئیں رکھدی، تے اوہنوں ایہ سکھن تے مجبور نئیں کرنا چاہیدا۔,"जो व्यक्ति कला सिखने में रुचि नहीं रखती, तो उसे इसे सीखने का प्रयास नहीं करना चाहिए।",1,no,Gurmukhi Punjabi,1.0
+36,hunyuan-7b,3749,Come and have a seat.,آ کے بیٹھ جاؤ۔,آئیچی اور سیٹ کریں۔,3,yes,Urdu,3.0
+37,qwen3-8b,736,"It is possible to secure park permits directly from the Ranger Station in Puerto Jiménez, but they do not accept credit cards",پیورتو جمینیز دے رینجر سٹیشن توں براہ راست پارک پرمٹ حاصل کرنا ممکن اے، لیکن اوہ کریڈٹ کارڈ قبول نئیں کردے۔,پݙرٹو جیمیnez کے رینجر اسٹیشن توں پارک کی ہدایت کاری ڈیکریٹ کرݨ امکان ہے، لکݨ کہ وہ کریڈٹ کارڈ چاکر نہیں لےݨ گھٹ.,5,yes,Urdu,3.0
+38,ling,2399,The last train has already gone.,آخری ریل گڈی ٹُر گئی اے۔,آخری ٹرین پہلے ہی چلی گئی ہے۔,4,yes,Urdu,4.0
+39,qwen3-8b,3564,What'll you be doing over the weekend?,توں ایس ہفتے کیہ کر رئی ایں؟,ਅੱਪਣੇ ਛੇਡੇ ਦੇ ਦਿਨ ਤੁਸੀਂ ਕੀ ਕਰੋਗੇ?,1,no,Gurmukhi Punjabi,1.0
+40,hunyuan-7b,597,"If you look at living things under a microscope, you will see that they are made of small squares or balls.",جے تسی زندہ شیواں نوں خوردبین چوں ویکھدے او تے تسی ویکھو گے کہ اوہ نکے نکے مربع یا گیند دے سائز دے خلیاں نال بنے ہوئے نیں۔,"जो जीवों को मेक्सट्रोस्कोप में देखते हैं, तो उन्हें छोटे साबुज़ाया या बल्ले महसूस करने पड़ते हैं।",1,no,Gurmukhi Punjabi,1.0
+41,ling,4572,Do I need to visit the branch personally?,کی مینوں ذاتی طور تے برانچ جانا پوے گا؟,کی مُجھے شاخ خود ہی جاݨی اے؟,5,yes,Urdu,4.0
+42,qwen3-8b,4623,Haha..sorry I am kidding.,ہاہاہا...  معذرت، میں مذاق کر رہیا سی۔,ہہہہ... میں چھیٹر رہا ہوں۔,5,yes,Urdu,5.0
+43,glm4-9b,3976,"Well there is not much we can do as well, apart from having patience and helping each other.",صبر کرن تے اک دوجے دی مدد کرن دے علاوہ اسیں ہور کجھ نئیں کر سکدے۔,"ਕੀ ਹੈ ਬਹੁਤ ਕੁਝ ਜਿਸ ਦੀ ਸਾਨੂੰ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ, ਮਾਣਸ ਰੱਖਣ ਅਤੇ ਇੱਕ ਦੂਜੇ ਦੀ ਮਦਦ ਕਰਨ ਤੋਂ ਇਲਾਵਾ।",1,no,Gurmukhi Punjabi,1.0
+44,qwen3-8b,4866,How does this work?,ایہہ کیویں کم کردی اے؟,کیا یہ کیسے کام کرتا ہے؟,5,yes,Urdu,5.0
+45,ling,1531,"My dear countrymen, the 12th of November, 2019 is the day when the 550th Prakashotsav of Guru Nanak dev ji will be celebrated across the world.",میرے پیارے دیس واسیو، 12 نومبر 2019 اوہ دن اے جدوں شری گورو نانک دیوَ جی دا 550واں جنم دن پوری دنیا وچ منایا جاوے گا۔,میرے پیارے ہم وطناواں، 12 نومبر 2019 اوہ دن اے جدوں گرو نانک دیو جی دا 550واں پرکاش اوتسو پوری دنیا وچ منایا جاوے گا۔,4,yes,Punjabi,5.0
+46,hunyuan-7b,4854,Hey Kirat.,جی، کیرت۔,کیارت!,2,yes,Punjabi,3.0
+47,ling,3624,What is the largest mountain in Japan?,جاپان دا سب توں اچا پہاڑ کیہڑا اے؟,جاپان وچ سب توں وڈا پہاڑ کیہ اے؟,5,yes,Punjabi,5.0
+48,glm4-9b,3728,"There are national tests like the NID Entrance Exam, too.",این آئی ڈی داخلہ امتحان ورگے قومی امتحان وی ہوندے نیں۔,این کسانی کی قومی امتحانات، جیسا کی NID ورودی امتحان، بھی ہیں.,5,yes,Urdu,5.0
+49,qwen3-8b,4888,"Yeah, so it was open for subscription only for one year and the capping of investment was later increased per family.",ہاں، ایہہ صرف اک سال لئی رکنیت لئی کھلیا سی تے بعد چ ہر خاندان لئی سرمایہ کاری دی حد ودھا دتی گئی۔,ہاں، اس کا اشتراک صرف ایک سال کے لئے ہوا اور بعد میں ہر خانہ خواہ کے لئے سرمایہ کاری کی مقدار بڑھ دی گئی۔,5,yes,Urdu,4.0
+50,ling,1063,And these hosts are being professionally trained in the technique of running a home stay.,ہوم سٹے دی سہولتاں فراہم کرن آلے لوکاں نو پیشہ ورانہ تربیت وی دتی جا رئی اے۔,تے ایہناں میزباناں نوں ہوم سٹے چلاؤن دی تکنیک وچ پیشہ ورانہ تربیت دتی جا رہی اے۔,4,yes,Punjabi,4.0
